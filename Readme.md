@@ -10,7 +10,7 @@
 <h3>Interface IMetier</h3>
 <img src="images/IMetier01.png">
 <h3>Class MetierImpl</h3>
-<img src="images/MetierImpl.png">
+<img src="images/MetierImpl01.png">
 <hr/>
 <h1>Couche Presentation</h1>
 <h3>Présentation Statique</h3>
