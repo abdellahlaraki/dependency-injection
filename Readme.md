@@ -19,4 +19,4 @@
 <h5>fichier config.txt</h5>
 <img src="images/config.png">
 <hr/>
-<img src="images/presentationStatique.png">
+<img src="images/presentationDynamique.png">
