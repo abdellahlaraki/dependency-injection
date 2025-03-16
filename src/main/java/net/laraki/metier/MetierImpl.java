@@ -10,7 +10,8 @@ public class MetierImpl implements  IMetier{
     public MetierImpl(IDao dao){
         this.dao=dao;
     }
-
+    public MetierImpl() {
+    }
     @Override
     public double calcul() {
         int CurrentYear= LocalDate.now().getYear();
