@@ -1,9 +1,6 @@
 package net.laraki.dao;
 
 public class DaoImpl implements IDao{
-
-
-
     @Override
     public double getYear() {
         System.out.println("year born");
