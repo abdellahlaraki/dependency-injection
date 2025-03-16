@@ -1,0 +1,2 @@
+net.laraki.dao.DaoImpl
+net.laraki.metier.MetierImpl
