@@ -1,17 +1,22 @@
 <h1>Dependency injection</h1>
 <hr/>
-<h3>Couche Dao</h3>
-<h6>Interface IDao</h6>
+<h1>Couche Dao</h1>
+<h3>Interface IDao</h3>
 <img src="images/IDao01.png">
-<h6>Class DaoImpl</h6>
+<h3>Class DaoImpl</h3>
 <img src="images/IDao01.png">
 <hr/>
-<h3>Couche Metier</h3>
-<h6>Interface IMetier</h6>
+<h1>Couche Metier</h1>
+<h3>Interface IMetier</h3>
 <img src="images/IMetier01.png">
-<h6>Class MetierImpl</h6>
+<h3>Class MetierImpl</h3>
 <img src="images/MetierImpl.png">
 <hr/>
-<h3>Couche Presentation</h3>
-<h6>Présentation Statique</h6>
+<h1>Couche Presentation</h1>
+<h3>Présentation Statique</h3>
+<img src="images/presentationStatique.png">
+<h3>Présentation Dynamique</h3>
+<h5>fichier config.txt</h5>
+<img src="images/config.png">
+<hr/>
 <img src="images/presentationStatique.png">
