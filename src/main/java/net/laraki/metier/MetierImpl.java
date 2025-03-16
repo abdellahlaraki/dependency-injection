@@ -17,4 +17,8 @@ public class MetierImpl implements  IMetier{
         double age= CurrentYear-dao.getYear();
         return age;
     }
+
+    public void setDao(IDao dao) {
+        this.dao = dao;
+    }
 }
