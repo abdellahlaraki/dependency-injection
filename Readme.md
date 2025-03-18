@@ -20,3 +20,11 @@
 <img src="images/config.png">
 <hr/>
 <img src="images/presentationDynamique.png">
+<h3>Présentation Spring Xml</h3>
+<h5>dependencies spring-core,spring-context,spring-bean</h5>
+<img src="images/dependencies.png">
+<hr/>
+<h5>fichier config.xml</h5>
+<img src="images/xml.png"/>
+<hr/>
+<img src="images/presentationSpringXMl.png">
