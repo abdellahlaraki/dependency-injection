@@ -32,8 +32,7 @@
 <h5>Repositroy Annotation</h5>
 <img src="images/repositoryAnn.png">
 <hr/>
-<h5>Service Annotation</h5>
+<h5>Service,Autowired Annotation</h5>
 <img src="images/ServiceAnn.png">
 <hr/>
 <img src="images/presentationAnnotation.png">
-
