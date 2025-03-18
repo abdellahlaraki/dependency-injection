@@ -28,3 +28,12 @@
 <img src="images/xml.png"/>
 <hr/>
 <img src="images/presentationSpringXMl.png">
+<h3>Présentation Annotation</h3>
+<h5>Repositroy Annotation</h5>
+<img src="images/repositoryAnn.png">
+<hr/>
+<h5>Service Annotation</h5>
+<img src="images/ServiceAnn.png.png">
+<hr/>
+<img src="images/presentationAnnotation.png.png">
+
